@@ -11,7 +11,7 @@
 瀬島るい [#あとるい絵](https://twitter.com/search?q=%23%E3%81%82%E3%81%A8%E3%82%8B%E3%81%84%E7%B5%B5)  
 月野木ちろる [#月野木美術館](https://twitter.com/search?q=%23%E6%9C%88%E9%87%8E%E6%9C%A8%E7%BE%8E%E8%A1%93%E9%A4%A8)  
 大浦るかこ [#絵ーじぇんと](https://twitter.com/search?q=%23%E7%B5%B5%E3%83%BC%E3%81%98%E3%81%87%E3%82%93%E3%81%A8)  
-湖南みあ [#みーあぱれっと](https://twitter.com/search?q=%23%E3%81%BF%E3%83%BC%E3%81%82%E3%81%B1%E3%82%8C%E3%81%A3%E3%81%A8)  
+[湖南みあ](https://twitter.com/Mia_Konan) [#みーあぱれっと](https://twitter.com/search?q=%23%E3%81%BF%E3%83%BC%E3%81%82%E3%81%B1%E3%82%8C%E3%81%A3%E3%81%A8)  
 
 ## ブイアパ
 杏戸ゆげ [#ゆげいじゅつ](https://twitter.com/search?q=%23%E3%82%86%E3%81%92%E3%81%84%E3%81%98%E3%82%85%E3%81%A4)  
