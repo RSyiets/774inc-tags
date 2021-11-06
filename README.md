@@ -52,10 +52,10 @@
 ## 緋翼のクロスピース
 |  | 配信タグ | ファンアート | 切り抜き動画 |
 |:--|:--|:--|:--|
-| 茜音カンナ |||
-| 涼海ネモ |||
-| 家入ポポ |||
-| 紫水キキ |||
-| 橙里セイ |||
-| 瑚白ユリ |||
-| 村猫ななし | - | [#ななしあーと](https://twitter.com/search?q=%23ななしあーと) | - |
+| [茜音カンナ](https://twitter.com/Canna_Akane) | [#授業参カンナ](https://twitter.com/search?q=%23授業参カンナ) | [#茜音色に染まれ](https://twitter.com/search?q=%23茜音色に染まれ) | [#カンナスラッシュ](https://twitter.com/search?q=%23カンナスラッシュ) |
+| [涼海ネモ](https://twitter.com/Nemo_Suzumi) | [#涼海開き](https://twitter.com/search?q=%23涼海開き) | [#ネモたーと](https://twitter.com/search?q=%23ネモたーと) | [#ネモたぬき](https://twitter.com/search?q=%23ネモたぬき) |
+| [家入ポポ](https://twitter.com/Popo_Ieiri) ||||
+| [紫水キキ](https://twitter.com/Kiki_Shisui) ||||
+| [橙里セイ](https://twitter.com/Sei_Touri) ||||
+| [瑚白ユリ](https://twitter.com/Yuri_Kohakuu) ||||
+| [村猫ななし](https://twitter.com/HIYOCRO_PT) | - | [#ななしあーと](https://twitter.com/search?q=%23ななしあーと) | - |
