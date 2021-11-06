@@ -25,12 +25,12 @@
 ## ブイアパ
 |  | 配信タグ | ファンアート | 切り抜き動画 |
 |:--|:--|:--|:--|
-| 杏戸ゆげ | [#杏戸ロイド](https://twitter.com/search?q=%23杏戸ロイド) | [#ゆげいじゅつ](https://twitter.com/search?q=%23ゆげいじゅつ) | - |
-| 季咲あんこ | [#あんこ～る](https://twitter.com/search?q=%23あんこ～る) | [#ふわふわあんこ](https://twitter.com/search?q=%23ふわふわあんこ) | - |
-| 花奏かのん | [#かのんライブ](https://twitter.com/search?q=%23かのんライブ) | [#かなでかのんアート](https://twitter.com/search?q=%23かなでかのんアート) | - |
-| 小森めと | [#引き小森日記](https://twitter.com/search?q=%23引き小森日記) | [#引き小森画](https://twitter.com/search?q=%23引き小森画) | - |
-| 不磨わっと | [#わっとあらいぶ](https://twitter.com/search?q=%23わっとあらいぶ) | [#絵レキバン](https://twitter.com/search?q=%23絵レキバン) | [#わっとかっと](https://twitter.com/search?q=%23わっとかっと) |
-| 銀猫ななし | - | [#ななしあーと](https://twitter.com/search?q=%23ななしあーと) | - |
+| [杏戸ゆげ](https://twitter.com/Uge_And) | [#杏戸ロイド](https://twitter.com/search?q=%23杏戸ロイド) | [#ゆげいじゅつ](https://twitter.com/search?q=%23ゆげいじゅつ) | - |
+| [季咲あんこ](https://twitter.com/Anko_Kisaki) | [#あんこ～る](https://twitter.com/search?q=%23あんこ～る) | [#ふわふわあんこ](https://twitter.com/search?q=%23ふわふわあんこ) | - |
+| [花奏かのん](https://twitter.com/_kanade_kanon) | [#かのんライブ](https://twitter.com/search?q=%23かのんライブ) | [#かなでかのんアート](https://twitter.com/search?q=%23かなでかのんアート) | - |
+| [小森めと](https://twitter.com/Met_Komori) | [#引き小森日記](https://twitter.com/search?q=%23引き小森日記) | [#引き小森画](https://twitter.com/search?q=%23引き小森画) | - |
+| [不磨わっと](https://twitter.com/Wat_Huma) | [#わっとあらいぶ](https://twitter.com/search?q=%23わっとあらいぶ) | [#絵レキバン](https://twitter.com/search?q=%23絵レキバン) | [#わっとかっと](https://twitter.com/search?q=%23わっとかっと) |
+| [銀猫ななし](https://twitter.com/Vtuber_ApArt) | - | [#ななしあーと](https://twitter.com/search?q=%23ななしあーと) | - |
 
 ## ハニーストラップ
 |  | 配信タグ | ファンアート | 切り抜き動画 |
